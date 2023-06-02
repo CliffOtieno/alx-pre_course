@@ -1,2 +1,2 @@
 # alx-pre_course
-My first repository
+I am now an ALX student and this is my first project as a fullstack software engineer.
